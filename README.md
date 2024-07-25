@@ -1,17 +1,40 @@
-# Budget-Tracker
-Personal web project for portfolio
+Budget Track Web App
 
-STATUS: DESIGN IN PROGRESS
 
-- PHASE 1: DESIGN (IN PROGRESS)
-- PHASE 2: CREATE THE DESIGNS
-- PHASE 3: CODE THE FUNCTIONALITY
-- PHASE 3.1: CODE DASHBOARD FUNCTION
-- PHASE 3.2: CODE BUDGETTING FUNCTIONS
-- PHASE 3.3: CODE MANAGING BUDGET
+Note: This project is still in the design phase
 
-DESIGN ELEMENTS:
+Budget Tracker is a personal web project aimed at simplifying the management of finances. This app provides an alternative to using Excel or Google Sheets, making it accessible through both mobile and desktop devices. Unlike many personal finance managers that have paywalls for essential features, Budget Tracker aims to offer a free, easy-to-use tool for tracking finances. This project also stems from a personal passion for financial management and the desire to create a tool that others can easily utilize.
 
-Font: Montserrat
+Table of Contents
 
-** Work on it every weekend **
+    Current Goal
+    Features
+    Technologies Used
+    Installation
+    Usage
+    Contributing
+    License
+    Credits
+    Contact
+
+Current Goal
+
+Finish the design phase of the project.
+Features
+
+    - Easy-to-use interface for tracking income and expenses
+    - Accessible on both mobile and desktop devices
+    - No paywalls for essential features
+    - *Visual reports and analytics to understand financial health
+
+Technologies Used
+
+    Frontend: HTML, CSS, JavaScript
+    Backend: Python [UNDECIDED]
+
+Jerome Michael Dela Cruz
+
+Contact
+dlcrzjrm023@gmail.com
+
+For questions, suggestions, or feedback, please reach out via GitHub or email me at dlcrzjrm023@gmail.com.
