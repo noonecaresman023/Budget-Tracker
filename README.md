@@ -10,10 +10,6 @@ Table of Contents
     Current Goal
     Features
     Technologies Used
-    Installation
-    Usage
-    Contributing
-    License
     Credits
     Contact
 
@@ -32,9 +28,10 @@ Technologies Used
     Frontend: HTML, CSS, JavaScript
     Backend: Python [UNDECIDED]
 
+Credits
+
 Jerome Michael Dela Cruz
 
 Contact
-dlcrzjrm023@gmail.com
 
-For questions, suggestions, or feedback, please reach out via GitHub or email me at dlcrzjrm023@gmail.com.
+For questions, suggestions, or feedback, please reach out via GitHub or email me at dlcrzjrm023@gmail.com
