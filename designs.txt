@@ -1,0 +1,13 @@
+green text:
+#55e278
+
+red text: 
+#e25555
+
+white text:
+#FFFFFF
+
+black text: 
+#252525
+
+fonts
