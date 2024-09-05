@@ -1,13 +1,22 @@
 green text:
-#55e278
+#4caf50
 
 red text: 
-#e25555
+#f44336
 
 white text:
 #FFFFFF
 
 black text: 
-#252525
+#333333
+
+warm yellow:
+#f4c542
+
+soft beige:
+#f9f3e3
 
 fonts
+Lato - Body text
+Poppins - Headings and key points
+Raleway - CTA buttons or highlights
