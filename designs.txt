@@ -1,4 +1,6 @@
-green text:
+- - DESIGN PROPERTIES - -
+
+green text:           
 #4caf50
 
 red text: 
@@ -20,3 +22,16 @@ fonts
 Lato - Body text
 Poppins - Headings and key points
 Raleway - CTA buttons or highlights
+
+- - PAGES - -
+
+- Dashboard (Focus here)
+- Income and Expenses
+- Debt Tracker
+  * track debt if paid or not
+- Savings
+  * savings goals and savings tracker
+- Planner
+  * has a calendar that plans out every expenses that we need in a month
+- Settings
+- Help and Support Page
